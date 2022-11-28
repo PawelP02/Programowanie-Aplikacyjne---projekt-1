@@ -5,7 +5,6 @@ E:\Programowanie aplikacyjne\Konwerter3\bin\Debug\net6.0-windows\Konwerter3.dll
 E:\Programowanie aplikacyjne\Konwerter3\bin\Debug\net6.0-windows\Konwerter3.pdb
 E:\Programowanie aplikacyjne\Konwerter3\obj\Debug\net6.0-windows\Konwerter3.csproj.AssemblyReference.cache
 E:\Programowanie aplikacyjne\Konwerter3\obj\Debug\net6.0-windows\Konwerter3.Form1.resources
-E:\Programowanie aplikacyjne\Konwerter3\obj\Debug\net6.0-windows\Konwerter3.Form2.resources
 E:\Programowanie aplikacyjne\Konwerter3\obj\Debug\net6.0-windows\Konwerter3.csproj.GenerateResource.cache
 E:\Programowanie aplikacyjne\Konwerter3\obj\Debug\net6.0-windows\Konwerter3.GeneratedMSBuildEditorConfig.editorconfig
 E:\Programowanie aplikacyjne\Konwerter3\obj\Debug\net6.0-windows\Konwerter3.AssemblyInfoInputs.cache
